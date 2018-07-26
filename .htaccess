@@ -1,0 +1,6 @@
+
+php_flag magic_quotes_gpc off
+php_flag display_startup_errors off
+php_flag display_errors off
+php_flag output_buffering on
+php_flag register_globals off

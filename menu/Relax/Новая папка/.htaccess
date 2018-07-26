@@ -1,0 +1,1 @@
+SetEnvIfNoCase Request_URI .(?:mp3|m4v|ogv|mp4)$ no-gzip dont-vary

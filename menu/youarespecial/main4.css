@@ -1,0 +1,88 @@
+.mainblok
+{
+    width: 960px;
+    height:500px;
+    margin: auto;
+      
+}
+.feedback {
+    position: fixed; /* Фиксированное положение */
+    right: 0; bottom: 5%; /* Положение */
+    background: #fc0; /* Цвет фона */
+    width: 120px; /* Ширина слоя */
+    padding: 5px; /* Поля */
+   }
+  
+.shb3{
+    width: 100%;
+    
+    background-image:url("star.jpg");
+    display: inline-block;
+        border: 2px double rgb(0, 0, 0);
+    border-color: #fc0;
+  
+    
+}
+
+.shb4{
+    width: 47.78%;
+    height:500px;
+    background-color: blueviolet;\
+    float: left;
+    display: inline-block;
+    border: 2px double black;
+    padding: 5px;       
+}
+
+
+
+
+  
+.maincontentblok {
+       height: 5000px;
+       width:960px;
+       border: 10px;   
+       color: #36A3A6;
+
+   }
+
+
+
+.footer1{
+    width: 98.5%;
+    height: 1500px;
+    background-color: chartreuse;
+    border: 2px double black;
+    border-color: rgb(19, 95, 167);
+
+}
+
+
+.footer2 {
+    width: 98.5%;
+    height: 1000px;
+    background-color: rgb(175, 176, 226);
+    border: 2px double black;
+    border-color: rgb(177, 28, 40);
+    
+    display: inline-block;
+
+}
+}
+.podmenu {
+    width: 100%;
+    height: 300px;
+    
+}
+
+
+.footer{
+    height: 22%;
+    width: 98.5%;
+    background-color: white;
+    border: 2px double black;
+    border-color: rgb(177, 28, 40);
+    display: inline-block;
+
+}
+

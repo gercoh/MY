@@ -1,0 +1,563 @@
+.mainleftblok {
+    float: right;
+    width: 500px;
+    height: 2000px;
+}
+
+
+.r1blok {
+ display: inline;
+ height: 550px;
+ width: 600px;
+ border-color:red;
+ float: left;
+    
+}
+
+
+
+
+.rightblok {
+    height: 1000px;
+    width: 400px;
+    display: inline-block;
+    float: left;  
+
+}
+
+.leftblok
+{
+height: 1000px;
+width: 400px;
+float: left;
+background-color: green;
+display: inline;
+
+}
+
+
+.mainblok
+{
+    width: 960px;
+    height:500px;
+    margin: auto;
+  
+    
+    
+}
+
+
+.parent {
+    width: 98%;
+    height:275px;
+    overflow: hidden;
+    overflow-x: scroll;
+        white-space:nowrap;
+}
+.child {
+    display: inline-block;
+    vertical-align: top;
+    width: 450px;
+    height:200px;
+   
+}
+.feedback {
+    position: fixed; /* Фиксированное положение */
+    right: 0; bottom: 5%; /* Положение */
+    background: #fc0; /* Цвет фона */
+    width: 120px; /* Ширина слоя */
+    padding: 5px; /* Поля */
+   }
+
+.bvsvideo {
+    display: inline-block;
+    width: 100%;
+    height: 800px;
+
+}
+   
+   .scroll {
+    /* Добавляем полосы прокрутки */
+    width: 65%; /* Ширина блока */
+    
+    padding: 5px; /* Поля вокруг текста */
+    border: solid 2px #fc0; /* Параметры рамки */
+   
+    float: left;
+   } 
+   
+   .bloknews3 {
+	   width: 100%;
+	   height: 300px;
+	   background: red;
+	   display: inline-block
+
+   }
+
+  
+   .bloknews1 {
+	width: 100%;
+	height: 300px;
+    background: green;
+    display: inline-block
+
+}
+.bloknews2 {
+	width: 100%;
+	height: 300px;
+    background: yellow;
+    display: inline-block
+
+}
+.bloknews4 {
+	width: 100%;
+	height: 300px;
+    background: red;
+    display: inline-block
+}
+.bloknews5 {
+	width: 100%;
+	height: 300px;
+    background: blue;
+    display: inline-block
+}
+.bloknews6 {
+	width: 100%;
+	height: 300px;
+    background: black;
+    display: inline-block
+}
+.bloknews7 {
+	width: 100%;
+	height: 300px;
+    background: sienna;
+    display: inline-block
+}
+.bloknews8 {
+	width: 100%;
+	height: 300px;
+    background: white;
+    display: inline-block
+}
+.bloknews9 {
+	width: 100%;
+	height: 300px;
+    background: violet;
+    display: inline-block
+}
+.bloknews10 {
+	width: 100%;
+	height: 300px;
+    background: orange;
+    display: inline-block
+}
+
+
+.bb1{
+	width: 100px;
+	height:540px;
+    background-color: #36A3A6;
+    float: left;
+    display: inline-block;
+    
+
+}
+.bb2{
+    width: 100px;
+	height: 200px;
+    background-color: orange;
+    float: left;
+    display: inline-block;  
+    
+}
+
+.bb3{
+    width: 31%;
+    height:200px;
+    color:yellow;
+    background-color: blue;
+    display: inline-block;
+    float: left;
+    border: 2px double black;
+    border-color: #fc0;
+    padding: 5px;
+    
+}
+.boxblock{
+    height: 1500px;
+    
+}
+.bb4{
+    width: 31%;
+    height:200px;
+    color:black;
+    background-color: blueviolet;
+    float: left;
+    display: inline-block;
+    border: 2px double black;
+    border-color: #fc0;
+    padding: 5px;
+    overflow: auto;
+    
+
+   
+}
+
+.bbspec{
+    width: 31%;
+    height:303px;
+    color:blue;
+    background-color: rgb(36, 252, 144);
+    display: inline-block;
+    float: left;
+    border: 2px double black;
+    border-color: #fc0;
+    padding: 5px;
+
+}
+.bb5{
+	width: 800px;
+	height:550px;
+    background-color: red;
+    float: left;
+    display: inline-block;
+    
+}
+.bb6{
+	width: 100px;
+	height:550px;
+    background-color: yellow;
+    float: left;
+    display: inline-block;
+    
+}
+
+
+.bb7{
+	width: 50%;
+	height:368px;
+    background-color: grey;
+    float: left;
+    display: inline-block;
+    border: 2px double black;
+    border-color: #fc0;
+    padding: 5px;
+   
+}
+
+.bb8
+{
+	width: 46%;
+	height:368px;
+    background-color: rgb(163, 165, 164);
+    float: left;
+    display: inline-block;
+    border: 2px double black;
+    border-color: #fc0;
+    padding: 5px;
+}
+.bb9{
+	width: 50%;
+	height:368px;
+    background-color: rgb(171, 68, 219);
+    float: left;
+    display: inline-block;
+    border: 2px double black;
+    border-color: #fc0;
+    padding: 5px;
+   
+}
+
+
+.button1{
+    margin-top:10%;
+    margin-left: 8%;
+    height: 100%;
+    width: 100%;
+  
+}
+
+
+.bb10
+{
+	width: 46%;
+	height:368px;
+    background-color: rgb(68, 238, 153);
+    float: left;
+    display: inline-block;
+    border: 2px double black;
+    border-color: #fc0;
+    padding: 5px;
+}
+
+
+.minblok
+{
+    
+    margin-left: 1%;
+    margin-right: 1%;
+width: 150px;
+height: 40%;
+border: 4px double black;
+padding: 5px;
+background:white;
+float: left;
+margin-top: 10px;
+
+}
+.minblok2
+{
+    
+    margin-left: 1%;
+    margin-right: 1%;
+width: 150px;
+height: 40%;
+border: 4px double black;
+padding: 5px;
+background:white;
+float: left;
+
+
+}
+.minblok1
+{
+height: 40%;
+border: 4px double black;
+background:white;
+bottom: 5%;
+margin: 10px;
+padding-top: 10px;
+overflow-x:hidden;
+}
+
+   div.class11 {
+    height: 1000px; /* Высота блока */
+    width: 450px; /* Ширина блока */
+    overflow: auto; /* Добавляем полосы прокрутки */
+    padding-left: 15px; /* Отступ от текста слева */
+    /* background: url(картинки/news.jpg); /* Цвет фона,  */
+   }
+   div.class12 {
+    height: 1000px; /* Высота блока */
+    width: 450px; /* Ширина блока */
+    overflow: auto; /* Добавляем полосы прокрутки */
+    padding-left: 15px; /* Отступ от текста слева */
+    background: url(картинки/donat.jpg) ; /* Цвет фона, 
+                                            путь к фоновому изображению и											повторение фона по вертикали */
+	position: top: ;
+   }
+   iframe.frame1{
+	   width: 100%;
+	   height:  400px;
+   }
+   .maincontentblok {
+       height: 3000px;
+       width: 100%;
+       border: 10px;   
+       color: #36A3A6;
+
+   }
+.blok3scrol {
+    /* 538 */
+    height: 1300px;
+    
+}
+.podmenu {
+    width: 100%;
+    
+}
+.glavnaya{
+    width: 960px;
+    
+}
+
+.blok71{
+    color: yellow;
+    margin-left: 2%;
+    width: 44%;
+	height:30%;
+    background-color: grey;
+    float: left;
+    display: inline-block;
+    border: 2px double black;
+    border-color: #fc0;
+    padding: 5px;
+}
+
+.blok72{
+    color: yellow;
+    margin-top:1%;
+    margin-left: 2%;
+    width: 57%;
+	height:60%;
+    background-color: grey;
+    float: left;
+    display: inline-block;
+    border: 2px double black;
+    border-color: #fc0;
+    padding: 5px;
+}
+.blok73
+{
+    color: yellow;
+    margin-top:4%;
+    margin-left: 2%;
+    width: 30%;
+	height:35%;
+    background-color: grey;
+    float: left;
+    display: inline-block;
+    border: 2px double rgb(179, 127, 127);
+    border-color: rgb(49, 228, 183);
+    padding: 5px;
+    
+}
+
+.blok74
+{
+    color: yellow;
+    margin-top:4%;
+    margin-left: 2%;
+    width: 30%;
+	height:10%;
+    background-color: grey;
+    float: left;
+    display: inline-block;
+    border: 2px double rgb(179, 127, 127);
+    border-color: rgb(180, 126, 224);
+    padding: 5px;
+    
+}
+
+.bb81
+{
+    
+        color: yellow;
+        
+        width: 95%;
+        height:45%;
+        background-color: grey;
+        float: left;
+        display: inline-block;
+        border: 2px double black;
+        border-color: #fc0;
+        padding: 5px;
+    
+}
+.bb82
+{
+    
+        color: rgb(17, 17, 15);
+        margin-left: 1%;
+        margin-top: 1%;
+        width: 55%;
+        height:45%;
+        background-color: rgb(231, 211, 211);
+        float: left;
+        display: inline-block;
+        border: 2px double black;
+        border-color: #fc0;
+        padding: 5px;
+    
+}
+.bb83
+{
+    
+        color: rgb(17, 17, 15);
+        margin-top: 1%;
+        width: 35%;
+        height:45%;
+        background-color: rgb(231, 211, 211);
+        float: left;
+        display: inline-block;
+        border: 2px double black;
+        border-color: #fc0;
+        padding: 5px;
+    
+}
+
+.bb91
+{
+    color: rgb(17, 17, 15);
+    margin-left: 1%;
+        width: 45%;
+        height:45%;
+        background-color: rgb(184, 184, 184);
+        float: left;
+        display: inline-block;
+        border: 2px double black;
+        border-color: #fc0;
+        padding: 5px; 
+}
+.bb92
+{
+    color: rgb(17, 17, 15);
+        margin-left: 1%;
+        width: 45%;
+        height:45%;
+        background-color: rgb(184, 184, 184);
+        float: left;
+        display: inline-block;
+        border: 2px double black;
+        border-color: #fc0;
+        padding: 5px; 
+}
+
+.bb93
+{
+    color: rgb(17, 17, 15);
+    margin-top: 1%;
+        margin-left: 1%;
+        width: 94%;
+        height:45%;
+        background-color: rgb(184, 184, 184);
+        float: left;
+        display: inline-block;
+        border: 2px double black;
+        border-color: #fc0;
+        padding: 5px; 
+}
+
+.bb101{
+color: rgb(17, 17, 15);
+margin-top: 1%;
+margin-left: 1%;
+    width: 95%;
+    height:45%;
+    background-color: rgb(198, 177, 218);
+    float: left;
+    display: inline-block;
+    border: 2px double black;
+    border-color: #fc0;
+    padding: 5px; 
+}
+
+.bb102
+{
+    color: rgb(17, 17, 15);
+        margin-left: 1%;
+        margin-top: 1%;
+        width: 45%;
+        height:45%;
+        background-color: rgb(184, 184, 184);
+        float: left;
+        display: inline-block;
+        border: 2px double black;
+        border-color: #fc0;
+        padding: 5px; 
+}
+
+.bb103
+{
+    color: rgb(17, 17, 15);
+        margin-left: 1%;
+        margin-top: 1%;
+        width: 44%;
+        height:45%;
+        background-color: rgb(184, 184, 184);
+        float: left;
+        display: inline-block;
+        border: 2px double black;
+        border-color: #fc0;
+        padding: 5px; 
+}

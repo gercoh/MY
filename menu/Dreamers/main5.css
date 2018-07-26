@@ -1,0 +1,94 @@
+.mainblok
+{
+    width: 960px;
+    height:500px;
+    margin: auto;
+      
+}
+.feedback {
+    position: fixed; /* Фиксированное положение */
+    right: 0; bottom: 5%; /* Положение */
+    background: #fc0; /* Цвет фона */
+    width: 120px; /* Ширина слоя */
+    padding: 5px; /* Поля */
+   }
+  
+.shb3{
+    width: 100%;
+    background-image:url("star.jpg");
+    display: inline-block;
+    border: 2px double rgb(0, 0, 0);
+    border-color: #fc0;
+  
+    
+}
+
+.shb4 {
+    width: 33.33%;
+    height:350px;
+    background-color: rgb(219, 111, 116);
+    float: left;
+    border-color:white;
+    margin: auto;      
+}
+
+.info{
+    height: 300px;
+    width: 100%;
+    background-color: darkorange;
+}
+  
+.maincontentblok {
+       height: 100%;
+       width:960px;
+       border: 10px;   
+       color: #36A3A6;
+
+   }
+
+.footer1{
+    width: 100%;
+    height: 1500px;
+    background-color: chartreuse;
+    border-color: rgb(19, 95, 167);
+}
+
+
+.footer2 {
+    width: 100%;
+    height: 1000px;
+    background-color: rgb(175, 176, 226);
+    border-color: rgb(177, 28, 40);
+    display: inline-block;
+
+}
+
+
+.podmenu {
+    width: 100%;
+    height: 300px;
+    background-color: #fc0;
+    border-color: rgb(19, 95, 167);
+    
+}
+
+
+
+.have3b {
+    width: 100%;
+    height:350px;
+    background-color: #fc0;
+ 
+
+}
+
+.footer{
+    height:20%;
+    width: 100%;
+    background-color: white;
+    border: 2px double black;
+    border-color: rgb(177, 28, 40);
+    display: inline-block;
+
+}
+
